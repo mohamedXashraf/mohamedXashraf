@@ -5,10 +5,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <a href="https://linkedin.com/in/coderbot">
-    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" /> 
+    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" width="24" height="24" /> 
   </a>
   <a href="https://www.hackerrank.com/coderbot1010">
-    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/hackerrank.png" alt="HackerRank" /> 
+    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/hackerrank.png" alt="HackerRank" width="24" height="24" /> 
   </a>
 </p>
 
@@ -22,13 +22,13 @@
 
 
 <p align="center">
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/java.png" alt="Java" width="100" height="100" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/kotlin.png" alt="Kotlin" width="100" height="100" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/swift.png" alt="Swift" width="100" height="100" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/dart.png" alt="Dart" width="100" height="100" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/python.png" alt="Python" width="100" height="100" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/nodejs.png" alt="NodeJS" width="100" height="100" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/cpp.png" alt="C++" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/java.png" alt="Java" width="50" height="50" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/kotlin.png" alt="Kotlin" width="50" height="50" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/swift.png" alt="Swift" width="50" height="50" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/dart.png" alt="Dart" width="50" height="50" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/python.png" alt="Python" width="50" height="50" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/nodejs.png" alt="NodeJS" width="50" height="50" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/cpp.png" alt="C++" width="50" height="50" /> 
 </p>
 
 
