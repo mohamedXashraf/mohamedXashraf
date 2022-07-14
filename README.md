@@ -1,5 +1,5 @@
 <h1 align="center">Mohamed Ashraf</h1>
-<h3 align="center">Computer Engineer ... Experienced Android Developer</h3>
+<h3 align="center">Computer Engineer, Experienced Android Developer</h3>
 <br />
 
 <p align="left">
