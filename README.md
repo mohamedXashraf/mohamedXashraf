@@ -22,13 +22,13 @@
 
 
 <p align="center">
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/java.png" alt="Java" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/kotlin.png" alt="Kotlin" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/swift.png" alt="Swift" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/dart.png" alt="Dart" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/python.png" alt="Python" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/nodejs.png" alt="NodeJS" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/cpp.png" alt="C++" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/java.png" alt="Java" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/kotlin.png" alt="Kotlin" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/swift.png" alt="Swift" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/dart.png" alt="Dart" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/python.png" alt="Python" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/nodejs.png" alt="NodeJS" width="100" height="100" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/cpp.png" alt="C++" width="100" height="100" /> 
 </p>
 
 
