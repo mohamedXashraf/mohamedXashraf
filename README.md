@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer ... Experienced Android Developer</h3>
 
 
-<p align="left|center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://linkedin.com/in/coderbot">
     <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" width="30" height="30" />
