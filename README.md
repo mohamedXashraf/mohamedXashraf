@@ -16,13 +16,13 @@
 
 
 <p align="center">
-  <img src="https://github.com/coderbot1010/mohamedXashraf/main/java.png" alt="Java" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/main/kotlin.png" alt="Kotlin" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/main/swift.png" alt="Swift" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/main/dart.png" alt="Dart" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/main/python.png" alt="Python" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/main/nodejs.png" alt="NodeJS" /> 
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/main/cpp.png" alt="C++" /> 
+  <img src="https://github.com/coderbot1010/mohamedXashraf/blob/main/java.png" alt="Java" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/kotlin.png" alt="Kotlin" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/swift.png" alt="Swift" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/dart.png" alt="Dart" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/python.png" alt="Python" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/nodejs.png" alt="NodeJS" /> 
+  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/cpp.png" alt="C++" /> 
 </p>
 
 
