@@ -2,18 +2,14 @@
 <h3 align="center">Computer Engineer ... Experienced Android Developer</h3>
 
 
-<p align="left" halign="center">
+<p align="left" style="margin: auto;">
   <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <div>
-    <a href="https://linkedin.com/in/coderbot">
-      <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" width="30" height="30" />
-    </a>
-  </div>
-  <div>
-    <a href="https://www.hackerrank.com/coderbot1010">
-      <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/hackerrank.png" alt="HackerRank" width="24" height="24" />
-    </a>
-  </div>
+  <a href="https://linkedin.com/in/coderbot">
+    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" width="30" height="30" />
+  </a>
+  <a href="https://www.hackerrank.com/coderbot1010">
+    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/hackerrank.png" alt="HackerRank" width="24" height="24" />
+  </a>
 </p>
 
 
