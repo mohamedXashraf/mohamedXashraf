@@ -3,7 +3,13 @@
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedXashraf" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://linkedin.com/in/coderbot">
+    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" /> 
+  </a>
+  <a href="https://www.hackerrank.com/coderbot1010">
+    <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/hackerrank.png" alt="HackerRank" /> 
+  </a>
 </p>
 
 
