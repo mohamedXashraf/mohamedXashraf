@@ -3,7 +3,7 @@
 
 
 <p align="left" vertical-align="middle">
-  <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30" /> 
+  <img src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="24" /> 
   <a href="https://linkedin.com/in/coderbot">
     <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/linkedin.png" alt="LinkedIn" width="30" height="30" /> 
   </a>
