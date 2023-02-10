@@ -6,7 +6,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=mohamedXashraf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   &nbsp;
   <a href="https://mohamedashraf.tech">
-    <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/protofolio.png" alt="Portofolio" width="20" height="20" />
+    <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/protofolio.png" alt="Portofolio" width="24" height="24" />
   </a>
   <a href="mailto:mohamed.ashraf.10107@gmail.com">
     <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/email.png" alt="Email" width="24" height="25" />
