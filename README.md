@@ -30,7 +30,6 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/portofolio.png" alt="Java" width="65" height="60" />
   <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/java.png" alt="Java" width="65" height="60" />
   <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/kotlin.png" alt="Kotlin" width="50" height="50" />
   <img src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/swift.png" alt="Swift" width="50" height="50" />
