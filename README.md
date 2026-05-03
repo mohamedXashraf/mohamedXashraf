@@ -1,15 +1,19 @@
-<div align="center">
-  <a href="https://mohamedashraf.tech">
-    <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/brand.png" alt="Brand" />
-  </a>
-</div>
+<a href="https://mohamedashraf.tech">
+  <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/banner.png" alt="Banner" />
+</a>
 
+<br /><br />
 
-<h3 align="center">Mohamed Ashraf</h3>
-<h5 align="center">Computer Engineer, Experienced Android Engineer</h5>
+**Experienced Android Engineer** offering more than 9 years of experience in software development and maintenance.
+<br />
+Focusing on developing high quality software with up to date technologies.
+<br />
+Targeting to be a leader in software engineering field.
+
 <br />
 
-<p align="center">
+**Contact:** 
+<p align="left">
   <a href="https://mohamedashraf.tech">
     <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/icon.png" alt="Portofolio" width="23" height="23" />
   </a>
