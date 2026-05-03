@@ -5,9 +5,9 @@
 <br /><br />
 
 **Experienced Android Engineer** offering more than 9 years of experience in software development and maintenance.
-<br />
+<br /><br />
 Focusing on developing high quality software with up to date technologies.
-<br />
+<br /><br />
 Targeting to be a leader in software engineering field.
 
 <br />
