@@ -12,7 +12,7 @@ Targeting to be a leader in software engineering field.
 
 <br />
 
-**Contact Me:** 
+**Contact Me** 
 <p align="left">
   <a href="https://mohamedashraf.tech">
     <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/icon.png" alt="Portofolio" width="23" height="23" />
