@@ -1,12 +1,17 @@
-![Local Image](./brand.png)
+<div align="center">
+  <a href="https://mohamedashraf.tech">
+    <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/brand.png" alt="Brand" />
+  </a>
+</div>
 
-<h1 align="center">Mohamed Ashraf</h1>
-<h3 align="center">Computer Engineer, Experienced Android Developer</h3>
+
+<h3 align="center">Mohamed Ashraf</h3>
+<h5 align="center">Computer Engineer, Experienced Android Engineer</h5>
 <br />
 
-<p align="left">
+<p align="center">
   <a href="https://mohamedashraf.tech">
-    <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/icon.png" alt="Portofolio" width="24" height="24" />
+    <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/icon.png" alt="Portofolio" width="23" height="23" />
   </a>
   <a href="mailto:mohamed.ashraf.10107@gmail.com">
     <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/email.png" alt="Email" width="24" height="25" />
