@@ -1,5 +1,5 @@
 <a href="https://mohamedashraf.tech">
-  <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/banner.png" alt="Banner" />
+  <img align="center" src="https://github.com/mohamedXashraf/mohamedXashraf/blob/main/banner.svg" alt="Banner" />
 </a>
 
 <br /><br />
