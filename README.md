@@ -4,7 +4,7 @@
 
 <br /><br />
 
-**Experienced Android Engineer** offering more than 9 years of experience in software development and maintenance.
+**Computer Engineer, Experienced Android Developer** offering more than 9 years of experience in software development and maintenance.
 <br /><br />
 Focusing on developing high quality software with up to date technologies.
 <br /><br />
